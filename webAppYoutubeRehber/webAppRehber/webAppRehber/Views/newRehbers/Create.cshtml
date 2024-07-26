@@ -1,0 +1,56 @@
+﻿@model webAppRehber.Models.newRehber
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Yeni Kişi İsmi Oluştur</h1>
+<hr />
+<h4>RehberApp</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">   
+
+        <form asp-action="Create" asp-controller="newRehbers" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="YeniKişiAdı" class="control-label"></label>
+                <input asp-for="YeniKişiAdı" class="form-control" />
+                <span asp-validation-for="YeniKişiAdı" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soyadı" class="control-label"></label>
+                <input asp-for="Soyadı" class="form-control" />
+                <span asp-validation-for="Soyadı" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Adress" class="control-label"></label>
+                <input asp-for="Adress" class="form-control" />
+                <span asp-validation-for="Adress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelNo" class="control-label"></label>
+                <input asp-for="TelNo" class="form-control" type="number" />
+                <span asp-validation-for="TelNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Fotoğraf Yükle</label>
+                <input type="file" name="photo" class="form-control"/>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Oluştur" class="btn btn-primary" />
+            </div>
+            
+        </form>
+    </div>
+</div>
+
+<br />
+<div>
+    <a asp-action="Index">Rehber Listesine Geri Dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

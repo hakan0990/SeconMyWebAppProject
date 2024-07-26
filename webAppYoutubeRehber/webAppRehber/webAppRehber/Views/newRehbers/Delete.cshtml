@@ -1,0 +1,52 @@
+﻿@model webAppRehber.Models.newRehber
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Silmek İstediğinden Emin Misin?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.YeniKişiAdı)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.YeniKişiAdı)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Soyadı)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Soyadı)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adress)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TelNo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TelNo)
+        </dd>
+        <dt class="col-sm-2">
+            <h5>Fotoğraflar</h5>
+        </dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.photopath))
+            {
+                <img src="@Url.Content("/"+Model.photopath)" alt="Fotoğraf" width="150" height="150" />
+            }
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Sil" class="btn btn-danger" /> 
+    </form>
+</div>

@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\webAppRehber.bundle.scp.css",
+      "PackagePath": "staticwebassets\\webAppRehber.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\08679bd2-bac7-4f25-abbf-6e18d20569c5.jpg",
+      "PackagePath": "staticwebassets\\images\\08679bd2-bac7-4f25-abbf-6e18d20569c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\0fabf953-2d21-4778-a9d9-239b88476826.jpg",
+      "PackagePath": "staticwebassets\\images\\0fabf953-2d21-4778-a9d9-239b88476826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\1985d302-a151-4de3-9836-207474c8bea5.jpg",
+      "PackagePath": "staticwebassets\\images\\1985d302-a151-4de3-9836-207474c8bea5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\304049e6-bd67-4474-8998-c014e0ce13c4.jpg",
+      "PackagePath": "staticwebassets\\images\\304049e6-bd67-4474-8998-c014e0ce13c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\4ca48029-4317-4b2a-9f11-a3acf46c739b.jpg",
+      "PackagePath": "staticwebassets\\images\\4ca48029-4317-4b2a-9f11-a3acf46c739b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\56aaf6f7-b996-4a4e-acfb-685888266823.jpg",
+      "PackagePath": "staticwebassets\\images\\56aaf6f7-b996-4a4e-acfb-685888266823.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\68f74419-3165-4e58-a27a-9b90b548f15d.ics",
+      "PackagePath": "staticwebassets\\images\\68f74419-3165-4e58-a27a-9b90b548f15d.ics"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\74202e6b-788c-4b70-9638-5c2be4e9f546.jpg",
+      "PackagePath": "staticwebassets\\images\\74202e6b-788c-4b70-9638-5c2be4e9f546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\7ceed5e8-e031-40ae-ab72-3ced11afcc2c.jpg",
+      "PackagePath": "staticwebassets\\images\\7ceed5e8-e031-40ae-ab72-3ced11afcc2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\88f11e7a-564f-4124-8921-6e0dbdc2614a.jpg",
+      "PackagePath": "staticwebassets\\images\\88f11e7a-564f-4124-8921-6e0dbdc2614a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\b0c899f1-d102-4a77-bc54-2dd633dbc98a.jpg",
+      "PackagePath": "staticwebassets\\images\\b0c899f1-d102-4a77-bc54-2dd633dbc98a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\b380bf52-5588-488a-8407-22f9975e596b.jpg",
+      "PackagePath": "staticwebassets\\images\\b380bf52-5588-488a-8407-22f9975e596b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\c27e0093-6062-480f-b49b-56947bd4ec7f.jpg",
+      "PackagePath": "staticwebassets\\images\\c27e0093-6062-480f-b49b-56947bd4ec7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\d13ef0a4-6d53-4459-9102-97eee5c826db.jpg",
+      "PackagePath": "staticwebassets\\images\\d13ef0a4-6d53-4459-9102-97eee5c826db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\images\\ea2d2e8a-4c91-401e-a5c2-1c65cceecc3f.jpg",
+      "PackagePath": "staticwebassets\\images\\ea2d2e8a-4c91-401e-a5c2-1c65cceecc3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.webAppRehber.props",
+      "PackagePath": "build\\webAppRehber.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.webAppRehber.props",
+      "PackagePath": "buildMultiTargeting\\webAppRehber.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.webAppRehber.props",
+      "PackagePath": "buildTransitive\\webAppRehber.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.webAppRehber.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

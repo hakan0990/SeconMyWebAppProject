@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|c:\\users\\asus\\desktop\\webappyoutuberehber\\webapprehber\\webapprehber\\views\\newrehbers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newrehbers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\views\\newlogins\\s\u0131gin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newlogins\\s\u0131gin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\views\\newlogins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newlogins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\views\\newlogins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newlogins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\controllers\\newloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\controllers\\newloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\controllers\\newrehberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\controllers\\newrehberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\views\\newrehbers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newrehbers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webapprehber\\views\\newrehbers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{336F660E-27F8-4DF0-BB9C-A9D0524686B9}|webAppRehber\\webAppRehber.csproj|solutionrelative:webapprehber\\views\\newrehbers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Details.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newRehbers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Details.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newRehbers\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:54:02.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "S\u0131gIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\S\u0131gIn.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newLogins\\S\u0131gIn.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\S\u0131gIn.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newLogins\\S\u0131gIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:54:00.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\Index.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newLogins\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\Index.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newLogins\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:53:58.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "newRehbersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\newRehbersController.cs",
+              "RelativeDocumentMoniker": "webAppRehber\\Controllers\\newRehbersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\newRehbersController.cs",
+              "RelativeToolTip": "webAppRehber\\Controllers\\newRehbersController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwHEAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:48:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\Create.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newLogins\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newLogins\\Create.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newLogins\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T14:00:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newRehbers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Delete.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newRehbers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T14:00:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "webAppRehber\\Views\\newRehbers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Views\\newRehbers\\Edit.cshtml",
+              "RelativeToolTip": "webAppRehber\\Views\\newRehbers\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T14:00:56.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webAppRehber\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webAppRehber\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:52:56.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "newLoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\newLoginsController.cs",
+              "RelativeDocumentMoniker": "webAppRehber\\Controllers\\newLoginsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\webAppYoutubeRehber\\webAppRehber\\webAppRehber\\Controllers\\newLoginsController.cs",
+              "RelativeToolTip": "webAppRehber\\Controllers\\newLoginsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAawEsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:23:09.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
